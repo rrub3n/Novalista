@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tvdiario.br" group-title="geral" tvg-name="tv diario" tvg-logo="https://seeklogo.com/images/T/tv-diario-logo-0A396604AE-seeklogo.com.png",tv diario
+#EXTINF:-1 group-title="geral" tvg-name="tv diario" tvg-logo="https://seeklogo.com/images/T/tv-diario-logo-0A396604AE-seeklogo.com.png",tv diario
+
 https://tvdiario.verdesmares.com.br/ao-vivo/playlist.m3u
