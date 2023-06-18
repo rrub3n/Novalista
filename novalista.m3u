@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno"1" tvg-id=tvdiario.brgroup-title="geral" tvg-name="tv diario" tvg-logo="https://seeklogo.com/images/T/tv-diario-logo-0A396604AE-seeklogo.com.png",tv diario
-https://tvdiario.verdesmares.com.br/ao-vivo
+https://tvdiario.verdesmares.com.br/ao-vivo/playlist.m3u
