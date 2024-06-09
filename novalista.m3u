@@ -1,4 +1,208 @@
-#EXTM3U
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
+
+#####################################################################
+📺 RTV | Atualização:09/06/24
+######################################################################ABERTOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="ABERTOS",Globo São Paulo | Brasil
+https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="Record" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/180px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png"
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="ABERTOS",RecordTV SP HD
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="ABERTOS",Band SP SD
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="ABERTOS",SBT
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="ABERTOS",RedeTV!
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="ABERTOS",RunTime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="SBT (Interior)" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png"
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="TV Ceará" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-ceara_m.png"
+https://a.cdni.live/pedro1426/pedro1426/chunklist_w1938233321.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="Catvefm" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/dd3ebd06eab2016cdefce847924a57fa.png"
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1165994564.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="Catve2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Catve.png/200px-Catve.png"
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1769116880.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="TV União" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png"
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="TV Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/220px-Logo_tvmax.png"
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2022/11/awtv.png"
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="TV NBN" tvg-logo="https://www.tvnbn.com.br/wp-content/uploads/2018/08/logo-TVNBN-300-100.png"
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-name="Rede Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png"
+https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w851859359.m3u8
 
 #EXTINF:-1 group-title="ABERTOS" tvg-name="Sertão TV" tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png"
 https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w1047271406.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nqzrit0.png" group-title="ABERTOS",TV Metropolitana Rio | Brasil
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPhNMMS.png" group-title="ABERTOS",TV Mon | Montenegro RS Brasil
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="ABERTOS",TV Nova Nordeste | Grande Recife PE Brasil
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="ABERTOS",TV União | Brasília | Brasil
+https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="ABERTOS",TV União | Fortaleza | Brasil
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="ABERTOS",Record | TV Conquista | MT Brasil
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="ABERTOS",Rede TV | TO Brasil
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="ABERTOS",Rede UTV | Brasil
+https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="ABERTOS",TV MAX Rio | Brasil
+https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/200px-Logotipo_da_TV_Metr%C3%B3pole.png" group-title="ABERTOS",TV Metrópole | Caucaia CE Brasil
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="ABERTOS",Clubbing TV | Samsung Brasil
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+
+######################################################################NOTICIAS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png" group-title="NOTICIAS",Jovem Pan News | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-name="JovemPan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png"
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="NOTICIAS",CNN BRASIL HD
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NOTICIAS",Band News HD
+http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png" group-title="NOTICIAS",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w226501203.m3u8
+
+######################################################################ESPORTES
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports
+http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+
+######################################################################FILMES E SERIES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES",RunTime Ação | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES",RunTime Comédia | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES",RunTime Crime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES",RunTime Família | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES",RunTime Romance | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES E SERIES",Soul Cine Clube | Brasil 
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="FILMES E SERIES",Gospel Movies | Brasil
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aI47NdR.png" group-title="FILMES E SERIES",Comédia Brasil | Samsung
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="FILMES E SERIES",Séries Sci-Fi | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+######################################################################DESENHO
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="DESENHO",iCarly | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="DESENHO",Nickelodeon | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="DESENHO",Nickelodeon Clássico | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="DESENHO",NickTeen | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="DESENHO",Os Padrinhos Mágicos | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+######################################################################MÚSICA
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" group-title="MUSICA",MTV Love Music | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2e6c7a07960007e52913/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" group-title="MUSICA",MTV Love Music | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f2e6c7a07960007e52913/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="MUSICA",MTV Movie Hits | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="MUSICA",MTV Movie Hits | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6492e8f04c014a0008394773/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="MUSICA",Vevo 70s | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="MUSICA",Vevo 80s | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="MUSICA",Vevo 90s | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="MUSICA",Vevo Retro Rock | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA",VH1 Classics | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="MUSICA",Xite Gospel | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+######################################################################VARIEDADES
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="Nova Play TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/2560px-Nova_Play_logo.svg.png"
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="ClassicTV" tvg-logo="https://w7.pngwing.com/pngs/401/91/png-transparent-free-old-tv-illustration.png"
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1570049714.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="VARIEDADES",Documentários | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="VARIEDADES",Canal 29 | séries antigas | Brasil
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1706184923.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="CHAVES24H" tvg-logo="https://img.itch.zone/aW1nLzk3NDQxMTMucG5n/original/yE9KUB.png"
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+
+
