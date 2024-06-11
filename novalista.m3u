@@ -1,8 +1,9 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
 
 #####################################################################
-📺 RTV | Atualização:09/06/24
+📺 RTV | Atualização:10/06/24
 ######################################################################ABERTOS
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="ABERTOS",Globo São Paulo | Brasil
 https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
@@ -87,6 +88,9 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="ABERTOS",Clubbing TV | Samsung Brasil
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTOS",TV Cultura HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
+
 ######################################################################NOTICIAS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png" group-title="NOTICIAS",Jovem Pan News | Pluto TV Brasil
@@ -156,6 +160,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="DESENHO",Os Padrinhos Mágicos | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBlmVp6.png" group-title="DESENHO",Rede Clone TV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+
 ######################################################################MÚSICA
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" group-title="MUSICA",MTV Love Music | Pluto TV Suécia
@@ -205,4 +212,5 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w1706184923.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-name="CHAVES24H" tvg-logo="https://img.itch.zone/aW1nLzk3NDQxMTMucG5n/original/yE9KUB.png"
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ga5pHL9.png" group-title="VARIEDADES",VV8 TV
+https://video01.kshost.com.br:4443/seap8272/seap8272/playlist.m3u8
