@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
 
 #####################################################################
 📺 RTV | Atualização: 13/07/24 
@@ -22,10 +22,10 @@ https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Abertos",SBT | Link 2
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",Rede TV 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",Rede TV 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV | Pluto 
+#EXTINF:-1 tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV | Pluto 
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Abertos",TV Diário
@@ -104,13 +104,13 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w226501203.m3u8
 
 ###################################################################### ESPORTES
 
-#EXTINF:-1 tvg-id="SporTV" tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",Sportv
+#EXTINF:-1 tvg-id="SporTV" tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",Sportv HD
 https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",Sportv | Link 2 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",Sportv 2 HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN SD
@@ -145,10 +145,10 @@ https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Filmes e Series",Cinemax HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/240
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes e Series",Warner Channel HD
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes e Series",Warner HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/320
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Abertos",RunTime Br
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes e Series",RunTime Br
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes e Series",RunTime Ação
