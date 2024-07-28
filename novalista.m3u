@@ -113,28 +113,25 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w226501203.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV SD
 http://dzcdn.vood.top:80/hls/546_.m3u8
 
-#EXTINF:-1 tvg-id="SporTV" tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",Sportv HD
-https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",Sportv | Link 2 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",Sportv 2 HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV
-https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",SporTV 2 | Link 2 
+http://dzcdn.vood.top:80/hls/551_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Esportes",EUROSPORT 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Esportes",Eurosport 1 
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8026
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Esportes",EUROSPORT 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Esportes",Eurosport 2 
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8024
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" group-title="Esportes",LA LIGA
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" group-title="Esportes",La Liga TV
 https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Esportes",JOGO 1
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 1
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN SD
@@ -145,6 +142,9 @@ https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Esportes",Band Sports
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/121
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="Esportes",Goat TV
 https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
@@ -304,9 +304,6 @@ https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Variedades",ViVA HD
 https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TelaViva TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w724363302.m3u8
-
 #EXTINF:-1 tvg-logo="http://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w105893007.m3u8
 
@@ -321,6 +318,9 @@ https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="Variedades",TOP Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TelaViva TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w724363302.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",ClassicTV
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1570049714.m3u8
