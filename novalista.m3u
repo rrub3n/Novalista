@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização: 04/08/24 
+📺 RTV | Atualização: 10/08/24 
 ###################################################################### ABERTOS
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Abertos",Globo SP
@@ -105,6 +105,9 @@ https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Noticias",Band News HD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Noticias",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Noticias",Fox News NOW | EUA 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -114,7 +117,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w226501203.m3u8
 ###################################################################### ESPORTES
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV SD
-http://dzcdn.vood.top:80/hls/546_.m3u8
+https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",Sportv | Link 2 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
@@ -123,7 +126,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",SporTV 2 | Link 2 
-http://dzcdn.vood.top:80/hls/551_.m3u8
+https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
@@ -136,6 +139,12 @@ http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8024
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 1
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 2
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NM5usn9.png" group-title="Esportes",TNT Sports | Youtube 
+https://ythls.armelin.one/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" group-title="Esportes",La Liga TV
 https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8
@@ -163,8 +172,8 @@ https://abc.embedmax.site/tnt/index.m3u8
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Filmes e Series",AMC 
 https://abc.embedmax.site/amc/index.m3u8 
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes e Series",HBO Family 
-https://abc.embedmax.site/hbofamily/index.m3u8 
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes e Series",HBO Family
+https://abc.embedmax.site/hbofamily/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Filmes e Series",FX 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/244
@@ -177,6 +186,15 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/240
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes e Series",Warner HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/320
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/200px-CinecanalLA.png" group-title="Filmes e Series",Cinecanal
+http://pfsv.io:80/pu1411/HP5729/132944.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/9/thumb_ENTRETENDO-1597857396.png" group-title="Filmes e Series",Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png" group-title="Filmes e Series",Bora Filmes
+http://cdn.connectbr.com.br/Bora_Filmes/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes e Series",RunTime Br
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
@@ -201,12 +219,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Filmes e Series",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/9/thumb_ENTRETENDO-1597857396.png" group-title="Filmes e Series",Entretendo
-http://cdn.connectbr.com.br/Entretendo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png" group-title="Filmes e Series",Bora Filmes
-http://cdn.connectbr.com.br/Bora_Filmes/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Filmes e Series",Gospel Movies
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
@@ -237,22 +249,28 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41a
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Desenhos e Seriados",Bob Esponja | Pluto TV Brasil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLhvH1F.png" group-title="Desenhos e Seriados",TV Nostalgia 
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png" group-title="Desenhos e Seriados",Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1998458856.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Desenhos e Seriados",Nickelodeon HD
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21263
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Desenhos e Seriados",Tooncast HD
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLhvH1F.png" group-title="Desenhos e Seriados",TV Nostalgia 
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png" group-title="Desenhos e Seriados",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1998458856.m3u8
+
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Desenhos e Seriados",Kenan e Kel | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ###################################################################### MÚSICA
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Musica",Musica Gospel 24h
+http://pfsv.io:80/pu1411/HP5729/227616.m3u8
+
+#EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Musica",Xite Gospel | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="Musica",Love Songs | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -281,14 +299,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b3822
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Musica",VH1 Classics | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Musica",Xite Gospel | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-logo="https://agitomax.com.br/wp-content/uploads/2024/05/AGITO-MAX-Grande-branco.png" group-title="Musica",Agito MAX
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESBB19000012F" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Musica",Clubbing TV
-https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 
 ###################################################################### VARIEDADES
 
