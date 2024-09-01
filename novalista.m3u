@@ -1,17 +1,20 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização: 08/24 
+📺 RTV | Atualização: 01/09/24 
 ###################################################################### ABERTOS
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Abertos",Globo SP
-https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Abertos",Globo | Link 2 
 https://new.embedflix.co/p2p/globosp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Abertos",Globo RJ
 https://new.embedflix.co/p2p/globorj/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/pt/8/8e/Logotipo_da_TV_Verdes_Mares.png" group-title="Abertos",Globo CE
+http://cdnexpress.homelinux.net/live/125.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/20/Logotipo_da_RecordTV_Paulista.png" group-title="Abertos",Record SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
@@ -36,9 +39,6 @@ https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play.sertaolink.net.br/logo/main-logo.png" group-title="Abertos",Sertão TV
 https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w607013983.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Abertos",AmazonSat
-https://d31d65o1na6hhj.cloudfront.net/out/v1/3e282733ebc24bb187d716cbfce16a23/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Abertos",TV União
 https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w893382967.m3u8
@@ -67,9 +67,6 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/chunklist_w1108932820.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="Abertos",TV Grão Pará
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Abertos",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="Abertos",TV Nova Nordeste
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
 
@@ -77,7 +74,7 @@ https://acesso.ecast.site:3675/live/novatvlive.m3u8
 https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/200px-Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Abertos",TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1386991998.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Abertos",TV Cultura
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
@@ -99,16 +96,22 @@ https://new.embedflix.co/p2p/globonews/chunks.m3u8
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Noticias",Band News HD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Noticias",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Noticias",Fox News NOW | EUA 
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png" group-title="Noticias",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w226501203.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Noticias",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Noticias",Fox News NOW | EUA 
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+
 ###################################################################### ESPORTES
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV HD
+http://authbr15jul.halites.online:80/5932/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png"Esportes",SporTV 2 HD
+http://authbr15jul.halites.online:80/5931/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
@@ -122,11 +125,11 @@ https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 3
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 
+#EXTINF:-1 tvg-logo="hhttps://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",JOGO 4
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/NM5usn9.png" group-title="Esportes",TNT Sports | Youtube 
 https://ythls.armelin.one/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" group-title="Esportes",La Liga TV
-https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Esportes",Band Sports
 http://cdn.connectbr.com.br/Band-Sports/index.m3u8
@@ -136,17 +139,8 @@ https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 
 ###################################################################### FILMES E SÉRIES
 
-#EXTINF:-1 tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Filmes e Series",HTO Filmes
-https://cdn-4.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Filmes e Series",Hallo Filmes
-https://cdn-4.nxplay.com.br/HALLOMOVIES/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="Filmes e Series",Hallo Classic
-https://cdn-4.nxplay.com.br/HALLOCLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="Filmes e Series",Hallo Series
-https://cdn-4.nxplay.com.br/HALLOSERIES/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT SD
+https://cdn-5.nxplay.com.br/TNT_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/9/thumb_ENTRETENDO-1597857396.png" group-title="Filmes e Series",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
@@ -210,6 +204,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Desenhos e Seriados",Nickelodeon HD
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21263
 
+#EXTINF:-1 tvg-logo="https://www.mitv.com.br/public/93508-2024-08-20.png" group-title="Desenhos e Seriados",Mitv
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLhvH1F.png" group-title="Desenhos e Seriados",TV Nostalgia 
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
@@ -226,6 +223,9 @@ https://casaplay5g.win:443/marcelo/102030/1361625
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Musica",Musica Gospel 24h
 http://pfsv.io:80/pu1411/HP5729/227616.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="Musica",TOP Mix TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Musica",Xite Gospel | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -257,6 +257,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b3822
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Musica",VH1 Classics | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
+#EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="Musica",MaisUm
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+
+###################################################################### RADIOS
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Jovem Pan SP
+https://stream-169.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkljY05aUVJfVHNpNXdmYmhIY25pUUEiLCJpYXQiOjE3MjUyMDM0MTEsImV4cCI6MTcyNTIwMzQ3MX0.q8tTEioPMGcV03RjrsnV1KIZktAPOGoFnR8ROtBMo7U
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Classic Pan
+https://stream-165.zeno.fm/rtk4pzcome3vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJydGs0cHpjb21lM3Z2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlVLTkNjSG96VDMyVGdUaUtONHRTQ2ciLCJpYXQiOjE3MjUyMDI5ODIsImV4cCI6MTcyNTIwMzA0Mn0.ytssY_Snfv8KETuFCdyMUYpfFxaLVTJdHqD98-INszM
+
 ###################################################################### VARIEDADES
 
 #EXTINF:-1 tvg-logo="http://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One
@@ -271,8 +282,11 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7AKdZrC.png" group-title="Variedades",YEEAAH
 https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="Variedades",TOP Mix TV
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://img.manchete.org/cropped-loguinho_240.png" group-title="Variedades",Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w2088756924.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xAPAkE.png" group-title="Variedades",TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TelaViva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w724363302.m3u8
