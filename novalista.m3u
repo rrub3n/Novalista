@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização: 01/09/24 
+📺 RTV | Atualização: 21/09/24
 ###################################################################### ABERTOS
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Abertos",Globo SP
@@ -12,9 +12,6 @@ http://cdn-5.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/20/Logotipo_da_RecordTV_Paulista.png" group-title="Abertos",Record SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="Abertos",Record | Link 2
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Abertos",Band Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
@@ -43,12 +40,6 @@ https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w893382967.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="Abertos",Rede UTV
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w430833575.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/dd3ebd06eab2016cdefce847924a57fa.png" group-title="Abertos",Catvfm
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1165994564.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Catve.png/200px-Catve.png" group-title="Abertos",Catv2
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1769116880.m3u8
-
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2022/11/awtv.png" group-title="Abertos",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
@@ -56,13 +47,10 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Abertos",Rede Brasil
-https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w851859359.m3u8
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w206659604.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nqzrit0.png" group-title="Abertos",TV Metropolitana Rio
 https://stmv5.samcast.com.br/claudio8701/claudio8701/chunklist_w1108932820.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="Abertos",TV Grão Pará
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="Abertos",TV Nova Nordeste
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
@@ -87,17 +75,11 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Noticias",Band News HD
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png" group-title="Noticias",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w226501203.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Noticias",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/200px-CNN_Portugal.svg.png" group-title="Noticias",CNN Portugal
-https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDQ6MTg6MTYgUE0maGFzaF92YWx1ZT1GRHdia0FJcmRiNU5YdlNLMWRHRWNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjI0OTliYmItNThiNy00NmFhLThjMjctNjE3ZmUxOWE0ZmUx
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Noticias",Fox News NOW | EUA 
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
@@ -106,21 +88,6 @@ http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV HD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 1
-https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 2
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 3
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 4
-https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Jogo 5
-https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NM5usn9.png" group-title="Esportes",TNT Sports | Youtube 
 https://ythls.armelin.one/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
@@ -249,6 +216,15 @@ https://stream-165.zeno.fm/rtk4pzcome3vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Tempo FM
 https://r13.ciclano.io/proxy/tempofml/stream
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",NovaBrasil
+https://27343.live.streamtheworld.com/NOVABRASIL_FOR_SC
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Abertos",Catvfm
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1165994564.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Catve.png/200px-Catve.png" group-title="Abertos",Catv2
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1769116880.m3u8
 
 ###################################################################### VARIEDADES
 
