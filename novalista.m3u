@@ -162,11 +162,8 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Seriados",Chapolin 24h
 http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/95725
 
-#EXTINF:-1 tvg-logo="https://iili.io/dfgwapa.png" group-title="Desenhos e Seriados", Chaves 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Seriados", Chaves 24h
 http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/95662
-
-#EXTINF:-1 tvg-logo="https://iili.io/dfgwapa.png" group-title="Desenhos e Seriados", Chaves 24h 2
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1728253830/ei/JrsCZ9vKNYaOobIP9anz6QY/ip/2804:267c:112:1800:ac42:d5c6:def7:db7d/id/7c89cef720b4c476/itag/312/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D19703673%3Bdur%3D36.469%3Bgir%3Dyes%3Bitag%3D299%3Blmt%3D1725182823787032/rqh/1/hls_chunk_host/rr5---sn-pmcg-4vgs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/5C/mm/31,26/mn/sn-pmcg-4vgs,sn-bg0eznlz/ms/au,onr/mv/m/mvi/5/pcm2cms/yes/pl/34/initcwndbps/692500/vprv/1/playlist_type/DVR/dover/13/txp/1432434/mt/1728231684/fvip/4/short_key/1/keepalive/yes/fexp/51300760/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIgETRjuhGMmn6p2LHlPMksrry4HTmNtIzqwTCU5mJFDJMCIQCBaQJakxElRWY7HO2tdDJzp1FGqq0dPRGCTLybk24WhQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps/lsig/ACJ0pHgwRQIgMyeJm0HZ4JPzC0r8x3kcS1Xv2QbbRqr-y-DCTEX_Nt4CIQCM_stdsjRnGZnvkWmvsCSGV9lN0qWFwbq4m_Rg_5btmQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Desenhos e Seriados",Kenan e Kel | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
