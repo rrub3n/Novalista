@@ -4,7 +4,7 @@
 📺 RTV | Atualização: 08/02/25
 ###################################################################### ABERTOS
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Abertos",Globo SP
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Abertos",Globo SP
 https://new.m3u8.one/globosp/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Abertos",Globo RJ
@@ -19,7 +19,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Abertos",Band SP
 https://super-cdn.link/band/index.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-arapuan_m.png" group-title="Abertos",Band Arapuan
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://seeklogo.com/images/B/Band-logo-6F3AEC8E2D-seeklogo.com.png" group-title="Abertos",Band Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Abertos",SBT
@@ -28,14 +28,11 @@ https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Abertos",SBT | Link 2
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! | Pluto 
-https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV! PI
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Abertos",Guará Caxias 
-https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! | Pluto 
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Abertos",TV Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1852754026.m3u8
@@ -288,23 +285,14 @@ https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Variedades", D+ TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Variedades",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Ntv-1.png" group-title="Variedades",NTV
-https://video01.logicahost.com.br/ntv/ntv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e1/Logotipo_da_Rede_Super_%282021%29.png" group-title="Variedades",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1347565542.m3u8
 
-#EXTINF:-1 tvg-logo="https://soumaispop.com.br/storage/642/config/Z1uNOZZ3rKAkhyogFhAHaBYFnkOooDbEIu8rFoSY.png" group-title="Variedades",Sou+Pop TV
-https://video04.logicahost.com.br/soumaispop/soumaispop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Variedades",Guará Caxias 
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fit/w_2500,h_1330,al_c/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-title="Variedades", Tela Brasil TV
 https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="Variedades",Brasil Hits
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w218453303.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPhNMMS.png" group-title="Variedades",TV Mon
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1010881403.m3u8
@@ -314,6 +302,3 @@ https://stmv2.samcast.com.br/carla7379/carla7379/chunklist_w490259890.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",ClassicTV
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1570049714.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",Aracati TV
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1487981232.m3u8
