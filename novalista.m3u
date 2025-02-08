@@ -4,7 +4,7 @@
 📺 RTV | Atualização: 08/02/25
 ###################################################################### ABERTOS
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Abertos",Globo SP
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Abertos",Globo SP
 https://new.m3u8.one/globosp/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Abertos",Globo RJ
@@ -19,7 +19,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Abertos",Band SP
 https://super-cdn.link/band/index.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://seeklogo.com/images/B/Band-logo-6F3AEC8E2D-seeklogo.com.png" group-title="Abertos",Band Arapuan
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/band-logo-png-transparent.png" group-title="Abertos",Band Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Abertos",SBT
@@ -123,9 +123,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Filmes e Series",Hallo Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Filmes e Series",Sófilmes
-https://fast-channels.b-cdn.net/9978b7063e297d84a7e38194f374e57c/soplay_movies/aovivo_abr/soplay_movies/aovivo_1080p/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Filmes e Series", Spark TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
