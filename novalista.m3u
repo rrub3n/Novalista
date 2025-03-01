@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização: 23/02/25
+📺 RTV | Atualização: 01/03/25
 ###################################################################### ABERTOS
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://www.alura.com.br/empresas/assets/img/cases/globo/globo-logo.1730889068.png" group-title="Abertos",Globo SP
@@ -13,14 +13,17 @@ https://new.m3u8.one/globorj/index.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/20/Logotipo_da_RecordTV_Paulista.png" group-title="Abertos",Record SP
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-6.png" group-title="Abertos",Record Juara
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-6.png" group-title="Abertos",Record | Link 2
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Abertos",Band Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Abertos",Band PA 
+#EXTINF:-1 tvg-id="BAND"" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Abertos",Band PA 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="New Brasil" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="Abertos",NEW Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Abertos",SBT
 https://aovivo.maissbt.com/index.m3u8
@@ -49,14 +52,8 @@ https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w1148215422.m3u8
 #EXTINF:-1 tvg-logo="http://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Abertos",TV One
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w105893007.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvaberta.tv.br/wp-content/uploads/2023/01/63c81d5e2b336-300x169.png" group-title="Abertos",Vila TV
-https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1634905973.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Abertos",TV União
 https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w893382967.m3u8
-
-#EXTINF:-1 tvg-logo="https://netdiario.com.br/wp-content/uploads/2022/11/LOGO-APLICATIVO3.png" group-title="Abertos",NetDiário
-https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="Abertos",Rede UTV
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w430833575.m3u8
@@ -81,6 +78,9 @@ https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/200px-Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Abertos",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1386991998.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Abertos",NetDiário
+https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
 
 ###################################################################### NOTÍCIAS
 
@@ -235,9 +235,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b3822
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Musica",VH1 Classics | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-logo="https://agitomax.com.br/wp-content/uploads/2024/05/AGITO-MAX-Grande-branco.png" group-title="Musica",Agito MAX
-https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w1765777063.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="Musica",MaisUm
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
