@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização: 01/03/25
+📺 RTV | Atualização: 09/03/25
 ###################################################################### ABERTOS
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://www.alura.com.br/empresas/assets/img/cases/globo/globo-logo.1730889068.png" group-title="Abertos",Globo SP
@@ -25,17 +25,20 @@ https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Abertos",SBT | Link 2
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV! SP
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV! PI
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! | Pluto 
+#EXTINF:-1 tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! | Pluto 
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Abertos",TV Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1852754026.m3u8
 
 #EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Abertos",Canal UOL | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Abertos",TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1852754026.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Abertos",Sertão TV
 https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w607013983.m3u8
@@ -46,7 +49,7 @@ https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w1148215422.m3u8
 #EXTINF:-1 tvg-logo="http://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Abertos",TV One
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w105893007.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Abertos",TV União
+#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Abertos",TV União
 https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w893382967.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="Abertos",Rede UTV
@@ -67,11 +70,14 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/chunklist_w1108932820.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="Abertos",TV Nova Nordeste
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Abertos",TV MAX Rio
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Abertos",TV MAX Rio
 https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/200px-Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Abertos",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1386991998.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Abertos",TV Padre
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w2047213277.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Abertos",NetDiário
 https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
@@ -279,8 +285,11 @@ https://www.appradio.app:8161/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PlayTV20062020.png/250px-PlayTV20062020.png" group-title="Variedades",PlayTV
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Variedades", D+ TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Variedades", D+TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="Variedades",Poptv
+https://rtisoluctions.com.br/hls/test_src.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e1/Logotipo_da_Rede_Super_%282021%29.png" group-title="Variedades",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1347565542.m3u8
