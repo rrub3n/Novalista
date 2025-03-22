@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização:16/03/25
+📺 RTV | Atualização:22/03/25
 ###################################################################### ABERTOS
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://www.alura.com.br/empresas/assets/img/cases/globo/globo-logo.1730889068.png" group-title="Abertos",Globo SP
@@ -236,6 +236,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 #EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="Musica",MaisUm
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://agitomax.com.br/wp-content/uploads/2024/05/AGITO-MAX-Grande-branco.png" group-title="Musica",Agito MAX
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+
 ###################################################################### RADIOS
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Jovem Pan SP
@@ -245,7 +248,7 @@ https://stream-169.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stream-165.zeno.fm/rtk4pzcome3vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJydGs0cHpjb21lM3Z2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlVLTkNjSG96VDMyVGdUaUtONHRTQ2ciLCJpYXQiOjE3MjUyMDI5ODIsImV4cCI6MTcyNTIwMzA0Mn0.ytssY_Snfv8KETuFCdyMUYpfFxaLVTJdHqD98-INszM
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Tempo FM
-https://r13.ciclano.io/proxy/tempofml/stream
+https://radio.webfrequencia.com.br:8110/tempofm
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Mix FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
