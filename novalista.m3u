@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização:29/03/25
+📺 RTV | Atualização:26/04/25
 ###################################################################### ABERTOS
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://www.alura.com.br/empresas/assets/img/cases/globo/globo-logo.1730889068.png" group-title="Abertos",Globo SP
@@ -14,10 +14,13 @@ https://new.m3u8.one/globorj/index.m3u8
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-6.png" group-title="Abertos",Record | Link 2
-https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND"" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Abertos",Band Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grupo_Band_Marca.png/640px-Grupo_Band_Marca.png",Band | Link 2
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Abertos",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -96,20 +99,31 @@ https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png" group-title="Noticias",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w226501203.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7a0dce_eb494a3bc8294068a2b2f9da86663644~mv2.png/v1/fill/w_380,h_214,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Marca-C%C3%A2mera-Mais-Site.png" group-title="Noticias",SIC News
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7a0dce_eb494a3bc8294068a2b2f9da86663644~mv2.png/v1/fill/w_380,h_214,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Marca-C%C3%A2mera-Mais-Site.png" group-title="Noticias",RTVes
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/330px-Logo_Canal_24_horas.svg.png" group-title="Noticias",tv5Monde
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69b2ea6b192c5a330b5418ce0f3f0138.webp" group-title="Noticias",CBS News NY
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Noticias",RT en español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias",Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/2/tv5monde-logo-png_seeklogo-448600.png" group-title="Noticias",tv5Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/06.m3u8
 
 ###################################################################### ESPORTES
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV HD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fU9ulW.png" group-title="Esportes",Esportes Brasília 
-https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8
-
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/ge_fast_circle_476x476.png" group-title="Esportes",Ge Fast
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 ###################################################################### FÍLMES E SÉRIES
 
@@ -304,11 +318,23 @@ https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1347565542.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Variedades",Guará Caxias 
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029507580-53O5W91DOYP5C95M3U8O/kiss-cut-stickers-4x4-default-61560d802b89c.png" group-title="Variedades",Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" group-title="Variedades",TVi Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fit/w_2500,h_1330,al_c/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-title="Variedades", Tela Brasil TV
 https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPhNMMS.png" group-title="Variedades",TV Mon
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1010881403.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TV Séries
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w642798045.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",CBTV
 https://stmv2.samcast.com.br/carla7379/carla7379/chunklist_w490259890.m3u8
