@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização:10/05/25
+📺 RTV | Atualização:31/05/25
 ###################################################################### ABERTOS
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://www.alura.com.br/empresas/assets/img/cases/globo/globo-logo.1730889068.png" group-title="Abertos",Globo SP
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Abertos",Globo SP
 https://new.m3u8.one/globosp/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-logo="https://www.alura.com.br/empresas/assets/img/cases/globo/globo-logo.1730889068.png" group-title="Abertos",Globo SP | Link 2
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Abertos",Globo SP | Link 2
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Abertos",Globo RJ
@@ -19,11 +19,11 @@ https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-6.png" group-title="Abertos",Record | Link 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Abertos",Band PA
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1  tvg-id="BAND" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Abertos",Band Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="BAND"" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Abertos",Band | Link 2
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Abertos",Band | Link 2
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Abertos",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -32,7 +32,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV! PR
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! | Pluto 
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
@@ -45,6 +45,9 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1852754026.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Abertos",Sertão TV
 https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w607013983.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Abertos",TV A Critica
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/07/BDC-TV-800x450-2.png" group-title="Abertos",BDC TV
 https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w1148215422.m3u8
@@ -122,10 +125,11 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 ###################################################################### ESPORTES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV HD
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",RSports
+https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w978605386.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Fama TV
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 
 ###################################################################### FÍLMES E SÉRIES
 
@@ -294,17 +298,26 @@ https://27343.live.streamtheworld.com/NOVABRASIL_FOR_SC
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Catvfm
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1165994564.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Catve.png/200px-Catve.png" group-title="Radios",Catv2
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Catv2
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1769116880.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Cidade
-https://video01.kshost.com.br/fabio2861/fabio2861/playlist.m3u8?t=1734552354 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Cultura FM
+https://player-culturafm.stream.uol.com.br/live/culturafm_luhd.m3u8?vhost=player-culturafm.stream.uol.com.br
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Classic FM
+https://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Canaã FM
 http://stream1.svrdedicado.org/8006/stream
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Gospel FM
 https://www.appradio.app:8161/live
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Gospel FM2
+https://stm18.xcast.com.br:9100//;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/207/935/original/radio-png.png" group-title="Radios",Vida FM
+https://www.appradio.app:8080/live
 
 ###################################################################### VARIEDADES
 
@@ -346,6 +359,12 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-18351/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CentralTVBrasil" tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Variedades",Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",SuperFix
+https://stream.cloudecast.com/hls/superflix/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",Kanade TV
+https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
