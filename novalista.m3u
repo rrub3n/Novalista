@@ -34,8 +34,11 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV! | PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! | Pluto TV
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! | Pluto TV
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Abertos",Guará Caxias 
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 
 #EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Abertos",Canal UOL | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -64,7 +67,7 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w430833575.
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz_3YpQSan.png" group-title="Abertos",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/NBN-logo.png" group-title="Abertos",TV NBN
+#EXTINF:-1 tvg-logo="https://www.tvnbn.com.br/wp-content/uploads/2018/08/logo-TVNBN-300-100.png" group-title="Abertos",TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Abertos",Rede Brasil
@@ -139,7 +142,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Filmes e Series",Sony One | Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://superflix.tv.br/wp-content/uploads/2025/05/SUPER-logo-trnasp.png" group-title="Variedades",SuperFix
+#EXTINF:-1 tvg-logo="https://superflix.tv.br/wp-content/uploads/2025/05/SUPER-logo-trnasp.png" group-title="Filmes e Series",SuperFix
 https://stream.cloudecast.com/hls/superflix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/moviesphere.png" group-title="Filmes e Series",Moviesphere
@@ -348,9 +351,6 @@ https://rtisoluctions.com.br/hls/test_src.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e1/Logotipo_da_Rede_Super_%282021%29.png" group-title="Variedades",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1347565542.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Variedades",Guará Caxias 
-https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" group-title="Variedades",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
@@ -363,19 +363,13 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1010881403.m3u8
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="Variedades",Blits TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="Variedades",Rede SPTV
-https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm6HsPj.png" group-title="Variedades",CanalTV Rio
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-18351/playlist/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Variedades",Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/32390/logo_256.png" group-title="Variedades",Multimix
 https://stmv.webtvninjas.com.br/multimix/multimix/chunklist_w1312086623.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",Kanade TV
+#EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Variedades",Kanade TV
 https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TV Séries
