@@ -1,23 +1,17 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #####################################################################
-📺 RTV | Atualização:10/06/25
+📺 RUTV | Atualização:21/06/25
 ###################################################################### ABERTOS
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Abertos",Globo | SP
-https://new.m3u8.one/globosp/index.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Abertos",Globo | SP 2
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Abertos",Globo | SP 
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Abertos",Globo | RJ
-https://new.m3u8.one/globorj/index.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/20/Logotipo_da_RecordTV_Paulista.png" group-title="Abertos",Record | MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/20/Logotipo_da_RecordTV_Paulista.png" group-title="Abertos",Record | RN
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-6.png" group-title="Abertos",Record | RN
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-6.png" group-title="Abertos",Record | MT
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 #EXTINF:-1  tvg-id="BAND" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Abertos",Band | PB
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
@@ -73,8 +67,8 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Abertos",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w2058512016.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nqzrit0.png" group-title="Abertos",TV Metropolitana Rio
-https://stmv5.samcast.com.br/claudio8701/claudio8701/chunklist_w1108932820.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Abertos",Central TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="Abertos",TV Nova Nordeste
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
@@ -84,6 +78,9 @@ https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/200px-Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Abertos",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1386991998.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Abertos",TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w642798045.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Abertos",TV Padre
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w2047213277.m3u8
@@ -117,6 +114,9 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69b2ea6b192c5a330b5418ce0f3f0138.webp" group-title="Noticias",CBS News NY
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/330px-Logo_Canal_24_horas.svg.png" group-title="Noticias",Canal 24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Noticias",RT en español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
@@ -131,9 +131,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",RSports
 https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w978605386.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Esportes",Fama TV
-https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-
 ###################################################################### FÍLMES E SÉRIES
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Filmes e Series",Sony One | Classics
@@ -143,15 +140,15 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://superflix.tv.br/wp-content/uploads/2025/05/SUPER-logo-trnasp.png" group-title="Filmes e Series",SuperFix
-https://stream.cloudecast.com/hls/superflix/index.m3u8
+https://streaming.cloudecast.com/hls/superflix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/moviesphere.png" group-title="Filmes e Series",Moviesphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Filmes e Series",Hallo Series
+#EXTINF:-1 tvg-logo="https://hallo.tv.br/img/SERIES.png" group-title="Filmes e Series",Hallo Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Filmes e Series", Spark TV
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/2/abc-spark-logo-png_seeklogo-488146.png" group-title="Filmes e Series", Spark TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes e Series",RunTime Br
@@ -216,23 +213,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Desenhos e Seriados",Kenan e Kel | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://www.mitv.com.br/public/93508-2024-08-20.png" group-title="Desenhos e Seriados",Mitv
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.conesul.net/guest/storage/upload/41001a4992-geekdot.png" group-title="Desenhos e Seriados",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Variedades",Kanade TV
+https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png" group-title="Desenhos e Seriados",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1998458856.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Desenhos e Seriados",Teleweb
-https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mitv.com.br/public/93508-2024-08-20.png" group-title="Desenhos e Seriados",Mitv
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Desenhos e Seriados",Fox Kids 
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Desenhos e Seriados",TV Nostalgia
+#EXTINF:-1 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_724.png" group-title="Desenhos e Seriados",TV Nostalgia
 https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Desenhos e Seriados",Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/1200px-FOX_Kids_logo.svg.png" group-title="Desenhos e Seriados",Fox Kids 
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
 ###################################################################### MÚSICA
 
@@ -342,9 +339,6 @@ https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Variedades", D+TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/QTAL_channel_logo_REDUZIDO_ndWFcTU.png" group-title="Variedades",Q Tal? Channel
-https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://files.tempo.com.ph/wp-content/uploads/2021/11/POPTV-LOGO.png" group-title="Variedades",Poptv
 https://rtisoluctions.com.br/hls/test_src.m3u8
 
@@ -354,32 +348,8 @@ https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1347565542.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" group-title="Variedades",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fit/w_2500,h_1330,al_c/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-title="Variedades", Tela Brasil TV
-https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPhNMMS.png" group-title="Variedades",TV Mon
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1010881403.m3u8
-
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="Variedades",Blits TV
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Variedades",Central TV
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/32390/logo_256.png" group-title="Variedades",Multimix
 https://stmv.webtvninjas.com.br/multimix/multimix/chunklist_w1312086623.m3u8
 
-#EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Variedades",Kanade TV
-https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TV Séries
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",TV Aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w642798045.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",CBTV
 https://stmv2.samcast.com.br/carla7379/carla7379/chunklist_w490259890.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="Variedades",ClassicTV
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1570049714.m3u8
