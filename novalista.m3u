@@ -148,9 +148,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:-1 tvg-logo="https://hallo.tv.br/img/SERIES.png" group-title="Filmes e Series",Hallo Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/2/abc-spark-logo-png_seeklogo-488146.png" group-title="Filmes e Series", Spark TV
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes e Series",RunTime Br
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
@@ -216,7 +213,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130
 #EXTINF:-1 tvg-logo="https://app.conesul.net/guest/storage/upload/41001a4992-geekdot.png" group-title="Desenhos e Seriados",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Variedades",Kanade TV
+#EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Desenhos e Seriados",Kanade TV
 https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png" group-title="Desenhos e Seriados",Loading
