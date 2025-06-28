@@ -366,7 +366,7 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/32390/logo_256.png" group-title="Variedades",Multimix
 https://stmv.webtvninjas.com.br/multimix/multimix/chunklist_w1312086623.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uJfsfJV.png" group-title="Vaiedades",GLN TV
+#EXTINF:-1 tvg-logo="https://imgur.com/uJfsfJV.png" group-title="Variedades",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJwljjR.png" group-title="Variedades",Channel Network 
