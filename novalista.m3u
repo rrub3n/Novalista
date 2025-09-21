@@ -140,9 +140,6 @@ https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Esportes",NSPORTS 
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Esportes em inglês",Fox Sports | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 ###################################################################### FÍLMES E SÉRIES
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Filmes e Series",Sony One | Classics
@@ -373,6 +370,7 @@ https://archive.org/download/colecao-biblia-sagrada-davi/Cole%C3%A7%C3%A3o%20B%C
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="rutv",Coleção Bíblia Sagrada | José
 https://archive.org/download/colecao-biblia-sagrada-jose/Cole%C3%A7%C3%A3o%20B%C3%ADblia%20Sagrada%20Jos%C3%A9.mp4
+
 
 
 
