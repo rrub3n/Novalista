@@ -131,14 +131,16 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV HD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Esportes",GeTV HD
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Esportes",GeTV HD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" group-title="Esportes",Desempedidos HD
+#EXTINF:-1 tvg-logo="https://thetournament.com/wp-content/uploads/2024/04/DEC_Primary_Logo_Color.png" group-title="Esportes",DesimpedidosTV
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Esportes",NSPORTS 
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1202/1202926.png" group-title="Esportes",FUTon
 
 ###################################################################### FÍLMES E SÉRIES
 
@@ -370,6 +372,7 @@ https://archive.org/download/colecao-biblia-sagrada-davi/Cole%C3%A7%C3%A3o%20B%C
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="rutv",Coleção Bíblia Sagrada | José
 https://archive.org/download/colecao-biblia-sagrada-jose/Cole%C3%A7%C3%A3o%20B%C3%ADblia%20Sagrada%20Jos%C3%A9.mp4
+
 
 
 
