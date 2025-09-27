@@ -41,7 +41,7 @@ https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w607013983.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Abertos",TV A Critica
-https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Abertos",TV One
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w105893007.m3u8
@@ -128,19 +128,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 ###################################################################### ESPORTES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV HD
+#EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Esportes",CazéTV HD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Esportes",GeTV HD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thetournament.com/wp-content/uploads/2024/04/DEC_Primary_Logo_Color.png" group-title="Esportes",DesimpedidosTV
-https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Esportes",NSPORTS 
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1202/1202926.png" group-title="Esportes",FUTon
+#EXTINF:-1 tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/08/277-1.png" group-title="Esportes",DesimpedidosTV
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
 
 ###################################################################### FÍLMES E SÉRIES
 
@@ -372,6 +370,7 @@ https://archive.org/download/colecao-biblia-sagrada-davi/Cole%C3%A7%C3%A3o%20B%C
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="rutv",Coleção Bíblia Sagrada | José
 https://archive.org/download/colecao-biblia-sagrada-jose/Cole%C3%A7%C3%A3o%20B%C3%ADblia%20Sagrada%20Jos%C3%A9.mp4
+
 
 
 
