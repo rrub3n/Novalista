@@ -359,17 +359,18 @@ https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
 
 ###################################################################### RUTV+
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="rutv",Coleção Bíblia Sagrada | Abraão
+#EXTINF:-1 tvg-logo="https://github.com/rrub3n/image-wlj/blob/main/RUTV.png?raw=true" group-title="rutv",Coleção Bíblia Sagrada | Abraão
 https://archive.org/download/colecao-biblia-sagrada-abraao_202311/Cole%C3%A7%C3%A3o%20B%C3%ADblia%20Sagrada%20-%20Abra%C3%A3o.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="rutv",Coleção Bíblia Sagrada | Moisés
+#EXTINF:-1 tvg-logo="https://github.com/rrub3n/image-wlj/blob/main/RUTV.png?raw=true" group-title="rutv",Coleção Bíblia Sagrada | Moisés
 https://archive.org/download/colecao-biblia-sagrada-moises/Cole%C3%A7%C3%A3o%20B%C3%ADblia%20Sagrada%20Mois%C3%A9s.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="rutv",Coleção Bíblia Sagrada | Davi
+#EXTINF:-1 tvg-logo="https://github.com/rrub3n/image-wlj/blob/main/RUTV.png?raw=true" group-title="rutv",Coleção Bíblia Sagrada | Davi
 https://archive.org/download/colecao-biblia-sagrada-davi/Cole%C3%A7%C3%A3o%20B%C3%ADblia%20Sagrada%20-%20Davi.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2502/2502208.png" group-title="rutv",Coleção Bíblia Sagrada | José
+#EXTINF:-1 tvg-logo="https://github.com/rrub3n/image-wlj/blob/main/RUTV.png?raw=true" group-title="rutv",Coleção Bíblia Sagrada | José
 https://archive.org/download/colecao-biblia-sagrada-jose/Cole%C3%A7%C3%A3o%20B%C3%ADblia%20Sagrada%20Jos%C3%A9.mp4
+
 
 
 
